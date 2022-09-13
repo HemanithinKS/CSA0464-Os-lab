@@ -29,9 +29,10 @@ execution time to execute next.
 
 5. Illustrate the deadlock avoidance concept by simulating Banker’s algorithm with C.
 
-![5 -1](https://user-images.githubusercontent.com/113330982/189853387-efcb5c3f-710a-45ae-848c-adae4c958e95.png)
-![5-2](https://user-images.githubusercontent.com/113330982/18985
-![5-3](https://user-images.githubusercontent.com/113330982/189853484-951cc2dd-6cbb-4b95-aa81-fd7ac87faaea.png)
-3444-e011cc70-9dee-4e90-a58d-2b0a8d6d7094.png)
+![5 -1](https://user-images.githubusercontent.com/113330982/189853708-28b3c2f4-361c-4be6-8351-38ed8fe272f0.png)
+![5-2](https://user-images.githubusercontent.com/113330982/189853760-7a23cac6-fe8a-4cdf-95b2-592928b7c59f.png)
+![5-3](https://user-images.githubusercontent.com/113330982/189853795-26ac6bfa-b6fb-4fea-abb0-523c519b5184.png)
+
+
 
 6. Construct a C program to simulate producer-consumer problem using semaphores.
