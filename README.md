@@ -36,3 +36,6 @@ execution time to execute next.
 
 
 6. Construct a C program to simulate producer-consumer problem using semaphores.
+
+![6](https://user-images.githubusercontent.com/113330982/189854783-528b1265-07aa-4856-a49e-51e58d16e959.png)
+
