@@ -15,8 +15,8 @@ subject code:CSA0464
 
 
 3. Design a CPU scheduling program with C using First Come First Served technique with the following considerations. 
-
-![image](https://user-images.githubusercontent.com/113330982/189848443-2351178c-1474-43d5-9bd0-a557050ff4a0.png)
-
 a. All processes are activated at time 0. 
 b. Assume that no process waits on I/O devices.
+
+![image](https://user-images.githubusercontent.com/113330982/189848591-ce66dc5d-b694-4b77-8af8-31859669ec87.png)
+
