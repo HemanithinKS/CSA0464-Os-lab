@@ -20,3 +20,12 @@ b. Assume that no process waits on I/O devices.
 
 ![image](https://user-images.githubusercontent.com/113330982/189848591-ce66dc5d-b694-4b77-8af8-31859669ec87.png)
 
+
+4. Construct a scheduling program with C that selects the waiting process with the smallest
+execution time to execute next.
+
+![4 sjf](https://user-images.githubusercontent.com/113330982/189849155-dcb013eb-6a15-4dbe-80e2-38f430cd6fd7.png)
+
+
+5. Illustrate the deadlock avoidance concept by simulating Banker’s algorithm with C.
+6. Construct a C program to simulate producer-consumer problem using semaphores.
